@@ -1,0 +1,2 @@
+..\cleaned\wine wine i 10 1
+..\cleaned\iris iris g 10 1

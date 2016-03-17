@@ -1,0 +1,7 @@
+name, method, class, balanced_accuracy
+wine,i,1.000000000000000000e+00,0.928215353938
+wine,i,2.000000000000000000e+00,0.906212978807
+wine,i,3.000000000000000000e+00,0.945673076923
+iris,g,Iris-setosa,1.0
+iris,g,Iris-versicolor,0.935
+iris,g,Iris-virginica,0.93

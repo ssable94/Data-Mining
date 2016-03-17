@@ -1,0 +1,7 @@
+name, method, class, f1_score
+wine,i,1.000000000000000000e+00,0.9
+wine,i,2.000000000000000000e+00,0.9
+wine,i,3.000000000000000000e+00,0.890510948905
+iris,g,Iris-setosa,1.0
+iris,g,Iris-versicolor,1.0
+iris,g,Iris-virginica,0.910891089109

@@ -1,0 +1,307 @@
+Dataset, Splitting Criteria, Overfitting Prevention, Category, F1 Score
+leaf, Entropy, Pessimistic Estimation, 1, 0.162162162162
+leaf, Entropy, Pessimistic Estimation, 2, 0.125
+leaf, Entropy, Pessimistic Estimation, 3, 0.235294117647
+leaf, Entropy, Pessimistic Estimation, 4, 0
+leaf, Entropy, Pessimistic Estimation, 5, 0.416666666667
+leaf, Entropy, Pessimistic Estimation, 6, 0.526315789474
+leaf, Entropy, Pessimistic Estimation, 7, 0.235294117647
+leaf, Entropy, Pessimistic Estimation, 8, 0.909090909091
+leaf, Entropy, Pessimistic Estimation, 9, 0.0740740740741
+leaf, Entropy, Pessimistic Estimation, 10, 0.4
+leaf, Entropy, Pessimistic Estimation, 11, 0.866666666667
+leaf, Entropy, Pessimistic Estimation, 12, 0
+leaf, Entropy, Pessimistic Estimation, 13, 0.206896551724
+leaf, Entropy, Pessimistic Estimation, 14, 0.24
+leaf, Entropy, Pessimistic Estimation, 15, 0.857142857143
+leaf, Entropy, Pessimistic Estimation, 22, 0.181818181818
+leaf, Entropy, Pessimistic Estimation, 23, 0.421052631579
+leaf, Entropy, Pessimistic Estimation, 24, 0.294117647059
+leaf, Entropy, Pessimistic Estimation, 25, 0.454545454545
+leaf, Entropy, Pessimistic Estimation, 26, 0.125
+leaf, Entropy, Pessimistic Estimation, 27, 0.47619047619
+leaf, Entropy, Pessimistic Estimation, 28, 0.25
+leaf, Entropy, Pessimistic Estimation, 29, 0.173913043478
+leaf, Entropy, Pessimistic Estimation, 30, 0.1
+leaf, Entropy, Pessimistic Estimation, 31, 0.7
+leaf, Entropy, Pessimistic Estimation, 32, 0.454545454545
+leaf, Entropy, Pessimistic Estimation, 33, 0.190476190476
+leaf, Entropy, Pessimistic Estimation, 34, 0.8
+leaf, Entropy, Pessimistic Estimation, 35, 0.5
+leaf, Entropy, Pessimistic Estimation, 36, 0.8
+banknote, Entropy, Pessimistic Estimation, 0, 0.945819397993
+banknote, Entropy, Pessimistic Estimation, 1, 0.935148118495
+banknote, Entropy, Validation Set, 0, 0.94204851752
+banknote, Entropy, Validation Set, 1, 0.931746031746
+banknote, Entropy, DML, 0, 0.953395472703
+banknote, Entropy, DML, 1, 0.943639291465
+banknote, Gini, Pessimistic Estimation, 0, 0.940870695257
+banknote, Gini, Pessimistic Estimation, 1, 0.924481327801
+banknote, Gini, Validation Set, 0, 0.920696324952
+banknote, Gini, Validation Set, 1, 0.896898575021
+banknote, Gini, DML, 0, 0.942170240416
+banknote, Gini, DML, 1, 0.926141078838
+glass, Entropy, Pessimistic Estimation, 1.000000000000000000e+00, 0.307692307692
+glass, Entropy, Pessimistic Estimation, 2.000000000000000000e+00, 0.441176470588
+glass, Entropy, Pessimistic Estimation, 3.000000000000000000e+00, 0
+glass, Entropy, Pessimistic Estimation, 5.000000000000000000e+00, 0.315789473684
+glass, Entropy, Pessimistic Estimation, 6.000000000000000000e+00, 0
+glass, Entropy, Pessimistic Estimation, 7.000000000000000000e+00, 0.819672131148
+glass, Entropy, Validation Set, 1.000000000000000000e+00, 0.112359550562
+glass, Entropy, Validation Set, 2.000000000000000000e+00, 0.516393442623
+glass, Entropy, Validation Set, 3.000000000000000000e+00, 0
+glass, Entropy, Validation Set, 5.000000000000000000e+00, 0
+glass, Entropy, Validation Set, 6.000000000000000000e+00, 0
+glass, Entropy, Validation Set, 7.000000000000000000e+00, 0.821428571429
+glass, Entropy, DML, 1.000000000000000000e+00, 0.336283185841
+glass, Entropy, DML, 2.000000000000000000e+00, 0.492753623188
+glass, Entropy, DML, 3.000000000000000000e+00, 0
+glass, Entropy, DML, 5.000000000000000000e+00, 0.3
+glass, Entropy, DML, 6.000000000000000000e+00, 0
+glass, Entropy, DML, 7.000000000000000000e+00, 0.8
+glass, Gini, Pessimistic Estimation, 1.000000000000000000e+00, 0.702702702703
+glass, Gini, Pessimistic Estimation, 2.000000000000000000e+00, 0.653594771242
+glass, Gini, Pessimistic Estimation, 3.000000000000000000e+00, 0.214285714286
+glass, Gini, Pessimistic Estimation, 5.000000000000000000e+00, 0.782608695652
+glass, Gini, Pessimistic Estimation, 6.000000000000000000e+00, 0.533333333333
+glass, Gini, Pessimistic Estimation, 7.000000000000000000e+00, 0.786885245902
+glass, Gini, Validation Set, 1.000000000000000000e+00, 0.66265060241
+glass, Gini, Validation Set, 2.000000000000000000e+00, 0.584415584416
+glass, Gini, Validation Set, 3.000000000000000000e+00, 0
+glass, Gini, Validation Set, 5.000000000000000000e+00, 0.133333333333
+glass, Gini, Validation Set, 6.000000000000000000e+00, 0.166666666667
+glass, Gini, Validation Set, 7.000000000000000000e+00, 0.8125
+glass, Gini, DML, 1.000000000000000000e+00, 0.689189189189
+glass, Gini, DML, 2.000000000000000000e+00, 0.683544303797
+glass, Gini, DML, 3.000000000000000000e+00, 0.206896551724
+glass, Gini, DML, 5.000000000000000000e+00, 0.727272727273
+glass, Gini, DML, 6.000000000000000000e+00, 0.533333333333
+glass, Gini, DML, 7.000000000000000000e+00, 0.785714285714
+haberman, Entropy, Pessimistic Estimation, 1, 0.840637450199
+haberman, Entropy, Pessimistic Estimation, 2, 0.272727272727
+haberman, Entropy, Validation Set, 1, 0.839694656489
+haberman, Entropy, Validation Set, 2, 0.0454545454545
+haberman, Entropy, DML, 1, 0.828282828283
+haberman, Entropy, DML, 2, 0.273504273504
+haberman, Gini, Pessimistic Estimation, 1, 0.823293172691
+haberman, Gini, Pessimistic Estimation, 2, 0.228070175439
+haberman, Gini, Validation Set, 1, 0.841698841699
+haberman, Gini, Validation Set, 2, 0.127659574468
+haberman, Gini, DML, 1, 0.821138211382
+haberman, Gini, DML, 2, 0.266666666667
+image, Entropy, Pessimistic Estimation, BRICKFACE, 0.785714285714
+image, Entropy, Pessimistic Estimation, SKY, 0.983606557377
+image, Entropy, Pessimistic Estimation, FOLIAGE, 0.741935483871
+image, Entropy, Pessimistic Estimation, CEMENT, 0.80701754386
+image, Entropy, Pessimistic Estimation, WINDOW, 0.603174603175
+image, Entropy, Pessimistic Estimation, PATH, 0.983606557377
+image, Entropy, Pessimistic Estimation, GRASS, 1.0
+image, Entropy, Validation Set, BRICKFACE, 0.830188679245
+image, Entropy, Validation Set, SKY, 0.952380952381
+image, Entropy, Validation Set, FOLIAGE, 0.507462686567
+image, Entropy, Validation Set, CEMENT, 0.777777777778
+image, Entropy, Validation Set, WINDOW, 0.524590163934
+image, Entropy, Validation Set, PATH, 0.967741935484
+image, Entropy, Validation Set, GRASS, 1.0
+image, Entropy, DML, BRICKFACE, 0.745098039216
+image, Entropy, DML, SKY, 0.983606557377
+image, Entropy, DML, FOLIAGE, 0.701754385965
+image, Entropy, DML, CEMENT, 0.75
+image, Entropy, DML, WINDOW, 0.675675675676
+image, Entropy, DML, PATH, 0.983606557377
+image, Entropy, DML, GRASS, 1.0
+image, Gini, Pessimistic Estimation, BRICKFACE, 0.827586206897
+image, Gini, Pessimistic Estimation, SKY, 0.983606557377
+image, Gini, Pessimistic Estimation, FOLIAGE, 0.766666666667
+image, Gini, Pessimistic Estimation, CEMENT, 0.779661016949
+image, Gini, Pessimistic Estimation, WINDOW, 0.645161290323
+image, Gini, Pessimistic Estimation, PATH, 0.952380952381
+image, Gini, Pessimistic Estimation, GRASS, 0.947368421053
+image, Gini, Validation Set, BRICKFACE, 0.830769230769
+image, Gini, Validation Set, SKY, 0.949152542373
+image, Gini, Validation Set, FOLIAGE, 0.71875
+image, Gini, Validation Set, CEMENT, 0.786885245902
+image, Gini, Validation Set, WINDOW, 0.56
+image, Gini, Validation Set, PATH, 0.967741935484
+image, Gini, Validation Set, GRASS, 0.983050847458
+image, Gini, DML, BRICKFACE, 0.80701754386
+image, Gini, DML, SKY, 0.983606557377
+image, Gini, DML, FOLIAGE, 0.688524590164
+image, Gini, DML, CEMENT, 0.806451612903
+image, Gini, DML, WINDOW, 0.64406779661
+image, Gini, DML, PATH, 0.967741935484
+image, Gini, DML, GRASS, 0.965517241379
+iris, Entropy, Pessimistic Estimation, Iris-setosa, 1.0
+iris, Entropy, Pessimistic Estimation, Iris-versicolor, 0.94
+iris, Entropy, Pessimistic Estimation, Iris-virginica, 0.94
+iris, Entropy, Validation Set, Iris-setosa, 1.0
+iris, Entropy, Validation Set, Iris-versicolor, 0.930693069307
+iris, Entropy, Validation Set, Iris-virginica, 0.929292929293
+iris, Entropy, DML, Iris-setosa, 1.0
+iris, Entropy, DML, Iris-versicolor, 0.932038834951
+iris, Entropy, DML, Iris-virginica, 0.927835051546
+iris, Gini, Pessimistic Estimation, Iris-setosa, 1.0
+iris, Gini, Pessimistic Estimation, Iris-versicolor, 0.909090909091
+iris, Gini, Pessimistic Estimation, Iris-virginica, 0.910891089109
+iris, Gini, Validation Set, Iris-setosa, 0.979591836735
+iris, Gini, Validation Set, Iris-versicolor, 0.873786407767
+iris, Gini, Validation Set, Iris-virginica, 0.888888888889
+iris, Gini, DML, Iris-setosa, 1.0
+iris, Gini, DML, Iris-versicolor, 0.909090909091
+iris, Gini, DML, Iris-virginica, 0.910891089109
+kidney, Entropy, Pessimistic Estimation, very_low, 0.424242424242
+kidney, Entropy, Pessimistic Estimation, High, 0.96875
+kidney, Entropy, Pessimistic Estimation, Low, 0.819672131148
+kidney, Entropy, Pessimistic Estimation, Middle, 0.895348837209
+kidney, Entropy, Validation Set, very_low, 0
+kidney, Entropy, Validation Set, High, 0.934426229508
+kidney, Entropy, Validation Set, Low, 0.805970149254
+kidney, Entropy, Validation Set, Middle, 0.863905325444
+kidney, Entropy, DML, very_low, 0.424242424242
+kidney, Entropy, DML, High, 0.96875
+kidney, Entropy, DML, Low, 0.823529411765
+kidney, Entropy, DML, Middle, 0.892857142857
+kidney, Gini, Pessimistic Estimation, very_low, 0.8
+kidney, Gini, Pessimistic Estimation, High, 0.96875
+kidney, Gini, Pessimistic Estimation, Low, 0.881355932203
+kidney, Gini, Pessimistic Estimation, Middle, 0.900584795322
+kidney, Gini, Validation Set, very_low, 0.76
+kidney, Gini, Validation Set, High, 0.942148760331
+kidney, Gini, Validation Set, Low, 0.848837209302
+kidney, Gini, Validation Set, Middle, 0.878612716763
+kidney, Gini, DML, very_low, 0.772727272727
+kidney, Gini, DML, High, 0.96875
+kidney, Gini, DML, Low, 0.867052023121
+kidney, Gini, DML, Middle, 0.900584795322
+pima, Entropy, Pessimistic Estimation, 1, 0.503778337531
+pima, Entropy, Pessimistic Estimation, 0, 0.827041264267
+pima, Entropy, Validation Set, 1, 0.505102040816
+pima, Entropy, Validation Set, 0, 0.83041958042
+pima, Entropy, DML, 1, 0.488549618321
+pima, Entropy, DML, 0, 0.824146981627
+pima, Gini, Pessimistic Estimation, 1, 0.592901878914
+pima, Gini, Pessimistic Estimation, 0, 0.815515610218
+pima, Gini, Validation Set, 1, 0.53829321663
+pima, Gini, Validation Set, 0, 0.804448563485
+pima, Gini, DML, 1, 0.544247787611
+pima, Gini, DML, 0, 0.809963099631
+seeds, Entropy, Pessimistic Estimation, 1, 0.84126984127
+seeds, Entropy, Pessimistic Estimation, 2, 0.964539007092
+seeds, Entropy, Pessimistic Estimation, 3, 0.901960784314
+seeds, Entropy, Validation Set, 1, 0.859375
+seeds, Entropy, Validation Set, 2, 0.971428571429
+seeds, Entropy, Validation Set, 3, 0.907894736842
+seeds, Entropy, DML, 1, 0.84126984127
+seeds, Entropy, DML, 2, 0.964539007092
+seeds, Entropy, DML, 3, 0.901960784314
+seeds, Gini, Pessimistic Estimation, 1, 0.785185185185
+seeds, Gini, Pessimistic Estimation, 2, 0.957746478873
+seeds, Gini, Pessimistic Estimation, 3, 0.839160839161
+seeds, Gini, Validation Set, 1, 0.857142857143
+seeds, Gini, Validation Set, 2, 0.971428571429
+seeds, Gini, Validation Set, 3, 0.897959183673
+seeds, Gini, DML, 1, 0.842105263158
+seeds, Gini, DML, 2, 0.964539007092
+seeds, Gini, DML, 3, 0.890410958904
+transfusion, Entropy, Pessimistic Estimation, 1, 0.0327868852459
+transfusion, Entropy, Pessimistic Estimation, 0, 0.865194211729
+transfusion, Entropy, Validation Set, 1, 0
+transfusion, Entropy, Validation Set, 0, 0.864946889226
+transfusion, Entropy, DML, 1, 0.0537634408602
+transfusion, Entropy, DML, 0, 0.865648854962
+transfusion, Gini, Pessimistic Estimation, 1, 0
+transfusion, Gini, Pessimistic Estimation, 0, 0.864946889226
+transfusion, Gini, Validation Set, 1, 0
+transfusion, Gini, Validation Set, 0, 0.864946889226
+transfusion, Gini, DML, 1, 0
+transfusion, Gini, DML, 0, 0.864946889226
+wdbc, Entropy, Pessimistic Estimation, malignant, 0.902912621359
+wdbc, Entropy, Pessimistic Estimation, benign, 0.944903581267
+wdbc, Entropy, Validation Set, malignant, 0.906862745098
+wdbc, Entropy, Validation Set, benign, 0.947945205479
+wdbc, Entropy, DML, malignant, 0.905109489051
+wdbc, Entropy, DML, benign, 0.946354883081
+wdbc, Gini, Pessimistic Estimation, malignant, 0.898148148148
+wdbc, Gini, Pessimistic Estimation, benign, 0.937677053824
+wdbc, Gini, Validation Set, malignant, 0.899766899767
+wdbc, Gini, Validation Set, benign, 0.939351198872
+wdbc, Gini, DML, malignant, 0.910377358491
+wdbc, Gini, DML, benign, 0.946778711485
+wine, Entropy, Pessimistic Estimation, 1.000000000000000000e+00, 0.894308943089
+wine, Entropy, Pessimistic Estimation, 2.000000000000000000e+00, 0.884057971014
+wine, Entropy, Pessimistic Estimation, 3.000000000000000000e+00, 0.905263157895
+wine, Entropy, Validation Set, 1.000000000000000000e+00, 0.882882882883
+wine, Entropy, Validation Set, 2.000000000000000000e+00, 0.842105263158
+wine, Entropy, Validation Set, 3.000000000000000000e+00, 0.817204301075
+wine, Entropy, DML, 1.000000000000000000e+00, 0.924369747899
+wine, Entropy, DML, 2.000000000000000000e+00, 0.87323943662
+wine, Entropy, DML, 3.000000000000000000e+00, 0.863157894737
+wine, Gini, Pessimistic Estimation, 1.000000000000000000e+00, 0.923076923077
+wine, Gini, Pessimistic Estimation, 2.000000000000000000e+00, 0.888888888889
+wine, Gini, Pessimistic Estimation, 3.000000000000000000e+00, 0.905263157895
+wine, Gini, Validation Set, 1.000000000000000000e+00, 0.901639344262
+wine, Gini, Validation Set, 2.000000000000000000e+00, 0.895104895105
+wine, Gini, Validation Set, 3.000000000000000000e+00, 0.901098901099
+wine, Gini, DML, 1.000000000000000000e+00, 0.924369747899
+wine, Gini, DML, 2.000000000000000000e+00, 0.871428571429
+wine, Gini, DML, 3.000000000000000000e+00, 0.886597938144
+yeast, Entropy, Pessimistic Estimation, MIT, 0.031746031746
+yeast, Entropy, Pessimistic Estimation, NUC, 0
+yeast, Entropy, Pessimistic Estimation, CYT, 0.478125
+yeast, Entropy, Pessimistic Estimation, ME1, 0
+yeast, Entropy, Pessimistic Estimation, EXC, 0
+yeast, Entropy, Pessimistic Estimation, ME2, 0
+yeast, Entropy, Pessimistic Estimation, ME3, 0
+yeast, Entropy, Pessimistic Estimation, VAC, 0
+yeast, Entropy, Pessimistic Estimation, POX, 0.5625
+yeast, Entropy, Pessimistic Estimation, ERL, 0
+yeast, Entropy, Validation Set, MIT, 0.14598540146
+yeast, Entropy, Validation Set, NUC, 0.150684931507
+yeast, Entropy, Validation Set, CYT, 0.459770114943
+yeast, Entropy, Validation Set, ME1, 0.0425531914894
+yeast, Entropy, Validation Set, EXC, 0
+yeast, Entropy, Validation Set, ME2, 0.0689655172414
+yeast, Entropy, Validation Set, ME3, 0
+yeast, Entropy, Validation Set, VAC, 0
+yeast, Entropy, Validation Set, POX, 0.5625
+yeast, Entropy, Validation Set, ERL, 0
+yeast, Entropy, DML, MIT, 0.0549019607843
+yeast, Entropy, DML, NUC, 0
+yeast, Entropy, DML, CYT, 0.479416362689
+yeast, Entropy, DML, ME1, 0
+yeast, Entropy, DML, EXC, 0
+yeast, Entropy, DML, ME2, 0
+yeast, Entropy, DML, ME3, 0
+yeast, Entropy, DML, VAC, 0
+yeast, Entropy, DML, POX, 0.5625
+yeast, Entropy, DML, ERL, 0
+yeast, Gini, Pessimistic Estimation, MIT, 0.544642857143
+yeast, Gini, Pessimistic Estimation, NUC, 0.506527415144
+yeast, Gini, Pessimistic Estimation, CYT, 0.562152133581
+yeast, Gini, Pessimistic Estimation, ME1, 0.666666666667
+yeast, Gini, Pessimistic Estimation, EXC, 0.533333333333
+yeast, Gini, Pessimistic Estimation, ME2, 0.354430379747
+yeast, Gini, Pessimistic Estimation, ME3, 0.79674796748
+yeast, Gini, Pessimistic Estimation, VAC, 0
+yeast, Gini, Pessimistic Estimation, POX, 0
+yeast, Gini, Pessimistic Estimation, ERL, 0
+yeast, Gini, Validation Set, MIT, 0.538641686183
+yeast, Gini, Validation Set, NUC, 0.524223602484
+yeast, Gini, Validation Set, CYT, 0.555450236967
+yeast, Gini, Validation Set, ME1, 0.688172043011
+yeast, Gini, Validation Set, EXC, 0.434782608696
+yeast, Gini, Validation Set, ME2, 0.441860465116
+yeast, Gini, Validation Set, ME3, 0.794666666667
+yeast, Gini, Validation Set, VAC, 0
+yeast, Gini, Validation Set, POX, 0.173913043478
+yeast, Gini, Validation Set, ERL, 0
+yeast, Gini, DML, MIT, 0.537931034483
+yeast, Gini, DML, NUC, 0.532994923858
+yeast, Gini, DML, CYT, 0.579737335835
+yeast, Gini, DML, ME1, 0.727272727273
+yeast, Gini, DML, EXC, 0.5625
+yeast, Gini, DML, ME2, 0.423529411765
+yeast, Gini, DML, ME3, 0.790190735695
+yeast, Gini, DML, VAC, 0
+yeast, Gini, DML, POX, 0.0869565217391
+yeast, Gini, DML, ERL, 0
